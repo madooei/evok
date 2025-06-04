@@ -2,6 +2,7 @@
   "name": "@madooei/evok",
   "version": "0.1.2",
   "description": "A minimal framework for building event-driven workflows in TypeScript",
+  "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
