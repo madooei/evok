@@ -55,18 +55,18 @@ The `evok.code-workspace` file can be customized to include different folders or
 ```json
 {
   "folders": [
-		{
-			"path": "docs"
-		},
-		{
-			"path": "packages/evok"
-		},
-		{
-			"path": "playgrounds/empty"
-		},
-		{
-			"path": "examples/agents"
-		}
+    {
+      "path": "docs"
+    },
+    {
+      "path": "packages/evok"
+    },
+    {
+      "path": "playgrounds/empty"
+    },
+    {
+      "path": "examples/agents"
+    }
   ],
   "settings": {
     // Add any workspace-specific settings here, for example:
