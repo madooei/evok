@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: packages/example-package
+        working-directory: packages/evok
     steps:
       - uses: actions/checkout@v4
 
