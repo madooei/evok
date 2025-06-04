@@ -1,0 +1,19 @@
+{
+  "name": "evok-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal example usage of @madooei/evok",
+  "scripts": {
+    "demo-00": "tsx --no-warnings ./src/demo-00.ts"
+  },
+  "dependencies": {
+    "@coursebook/simple-logger": "^0.1.4",
+    "@madooei/evok": "file:../../packages/evok"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "tsx": "^4.19.4",
+    "typescript": "^5.0.0"
+  }
+}
